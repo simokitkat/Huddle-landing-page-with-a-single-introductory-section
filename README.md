@@ -1,2 +1,1 @@
-# Huddle-landing-page-with-a-single-introductory-section
-HTML &amp; CSS
+# This is a HTML & CSS responsive design!
